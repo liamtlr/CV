@@ -10,9 +10,9 @@ Having recently exited management consulting before being promoted past a point 
 
 ## I built these: ##
 
-| Language / Framework | Related project | Supporting stack |
+| Language / Framework | Related project | Supporting technologies |
 |---|---|---|
-|JavaScript / Meteor | I'm In: a volunteering platform | Chimp, Mocha/Chai, Google Maps API
-| Pure JavaScript (no framework) | A news summary app | Jasmine |
+|JavaScript / Meteor | [I'm In: a volunteering platform](https://github.com/wirsindpapst/project-snowflake) | Chimp, Mocha/Chai, Google Maps API
+| Pure JavaScript (no framework) | [A news summary app](https://github.com/wirsindpapst/news-app-js) | Jasmine |
 | Ruby / Rails | MakersBnB: an AirBnB clone app | Rspec/Capybara, PostgreSQL/ActiveRecord |
-| Python / Django | A blogging platform | Unittest / Selenium WebDriver, Facebook Developer API
+| Python / Django | Unchained:A blogging platform | Unittest / Selenium WebDriver, Facebook Developer API
