@@ -28,7 +28,7 @@ Having recently exited management consulting before being promoted past a point 
 ## ... I like to get things done ##
 
 -  In my previous career I have worked on projects in a number of different client-facing roles, including but not limited to: project manager, business analyst, business case lead, IT sourcing lead. Basically, I've been trusted as a safe pair of hands with a lot of difficult jobs.
- -  I love creating clean, test-driven code, but understand this is ultimately to provide functionality and value to the end user. I see code as a means to an end and not an art form unto itself.
+-  I love creating clean, test-driven code, but understand this is ultimately to provide functionality and value to the end user. I see code as a means to an end and not an art form unto itself.
 
 ## ... I deal well with change and uncertainty ##
 
