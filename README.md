@@ -45,6 +45,8 @@ Having recently exited management consulting before being promoted past a point 
  ---
 
 ## Career to date
+
+|When|What I was doing|
 |---|---|
 |September 2016 - December 2016| Student at Makers Academy|
 |May 2016 - August 2016| Independent travel (Canada & South America)|
