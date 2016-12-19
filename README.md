@@ -2,9 +2,9 @@
 
 GitHub | LinkedIn | Codewars
 
-_Everyone asks about the GitHub username, so I thought I would explain that first. It's German for 'We are Pope' (I speak German and used to live in Austria), which was a  fantastic/ridiculous headline in a lowbrow German tabloid when a German pope was consecrated, see [this](https://www.google.co.uk/search?q=wirsind+papst+bild&espv=2&biw=1231&bih=633&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-pMqjnYDRAhVCshQKHcktB_0Q_AUIBigB&dpr=2#imgrc=VCYdUJ3YpSRwiM%3A) or the [wikipedia article](https://de.wikipedia.org/wiki/Wir_sind_Papst!)._
+######Everyone asks about the GitHub username, so I thought I would explain that first. It's German for 'We are Pope' (I speak German and used to live in Austria), which was a  fantastic/ridiculous headline in a lowbrow German tabloid when a German pope was consecrated, see [this](https://www.google.co.uk/search?q=wirsind+papst+bild&espv=2&biw=1231&bih=633&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-pMqjnYDRAhVCshQKHcktB_0Q_AUIBigB&dpr=2#imgrc=VCYdUJ3YpSRwiM%3A) or the [wikipedia article](https://de.wikipedia.org/wiki/Wir_sind_Papst!).######
 
-_It's just something irreverent, given I am blessed/cursed with an extremely common name._
+######It's just something irreverent, given I am blessed/cursed with an extremely common name. ######
 
 ---
 
@@ -14,12 +14,12 @@ Having recently exited management consulting before being promoted past a point 
 
 ## I built these: ##
 
-| Language / Framework | Related project | Supporting technologies |
+| Project | Language / Framework  | Supporting technologies |
 |---|---|---|
-|JavaScript / Meteor | [I'm In: a volunteering platform](https://github.com/wirsindpapst/project-snowflake) | Chimp, Mocha/Chai, Google Maps API
-| Pure JavaScript (no framework) | [A news summary app](https://github.com/wirsindpapst/news-app-js) | Jasmine |
-| Ruby / Rails | [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb) | Rspec/Capybara, PostgreSQL/ActiveRecord |
-| Python / Django | [Unchained: A blogging platform](https://github.com/wirsindpapst/unchained_blog) | Unittest / Selenium WebDriver, Facebook Developer API
+| [I'm In: a volunteering platform](https://github.com/wirsindpapst/project-snowflake) | JavaScript / Meteor | Chimp, Mocha/Chai, Google Maps API
+| [A news summary app](https://github.com/wirsindpapst/news-app-js) | Pure JavaScript (no framework)  | Jasmine |
+| [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb)|  Ruby / Rails  | Rspec/Capybara, PostgreSQL/ActiveRecord |
+| [Unchained: A blogging platform](https://github.com/wirsindpapst/unchained_blog)| Python / Django | Unittest / Selenium WebDriver, Facebook Developer API
 
 ---
 
@@ -45,32 +45,25 @@ Having recently exited management consulting before being promoted past a point 
  ---
 
 ## Career to date
-
-September 2016 - December 2016: Makers Academy student
-
-May 2016 - August 2016: Independent travel (Canada & South America)
-
-July 2013 - May 2016: PwC Consulting
-Consulting Technology Senior Associate
-
-September 2011 - June 2013: PwC Consulting
-Graduate Management Consultant
-
-October 2010 - May 2011: British Council, Vienna, Austria
-English Language Teaching Assistant
+|---|---|
+|September 2016 - December 2016| Student at Makers Academy|
+|May 2016 - August 2016| Independent travel (Canada & South America)|
+|July 2013 - May 2016| PwC Consulting: Consulting Technology, Senior Associate
+|September 2011 - June 2013 | PwC Consulting, Graduate Management Consultant|
+|October 2010 - May 2011 | British Council, English Language Teaching Assistant (Vienna, Austria)|
 
 ---
 
 ## Education and qualifications ##
 
- -  2.i in Modern and Medieval Languages (German and Russian), Cambridge University
- -  Prince 2 Foundation certified (project management accreditation)
- -  TOGAF v9 certified (Enterprise Architecture accreditation)
+ - 2.i in Modern and Medieval Languages (German and Russian), Cambridge University
+ - Prince 2 Foundation certified (project management accreditation)
+ - TOGAF v9 certified (Enterprise Architecture accreditation)
  - 3 A levels, 1 AS level, 11 GCSEs (all A* or A)
 
- ---
+---
 
 ## Miscellaneous
 
- -  Not particularly out there; I love to read (talk to me about Guenter Grass, Elfriede Jelinek, Margaret Atwood and China Mieville). I also go to a book group for Dystopian and Post-Apocalyptic fiction (a guilty pleasure)
- -  Board games (co operative, strategic and something with a good gimmick is right up my street)
+ -  Not particularly out there; I love to read (talk to me about Guenter Grass, Elfriede Jelinek, Margaret Atwood and China Mieville). I also go to a book group for Dystopian and Post-Apocalyptic fiction (a guilty pleasure).
+ -  Board games (co operative, strategic and something with a good gimmick is right up my street).
