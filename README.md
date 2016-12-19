@@ -18,7 +18,7 @@ Having recently exited management consulting before being promoted past a point 
 |---|---|---|
 | [I'm In: a volunteering platform](https://github.com/wirsindpapst/project-snowflake) | JavaScript / Meteor | MongoDB, Chimp, Mocha/Chai, Google Maps API
 | [A news summary app](https://github.com/wirsindpapst/news-app-js) | Pure JavaScript (no framework)  | Jasmine |
-| [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb)|  Ruby/Sinatra  | Rspec/Capybara, PostgreSQL/DataMapper |
+| [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb)|  Ruby / Sinatra  | Rspec/Capybara, PostgreSQL/DataMapper |
 | [Unchained: A blogging platform](https://github.com/wirsindpapst/unchained_blog)| Python / Django | Unittest / Selenium WebDriver, Facebook Developer API
 
 ---
