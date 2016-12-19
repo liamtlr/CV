@@ -18,7 +18,7 @@ Having recently exited management consulting before being promoted past a point 
 |---|---|---|
 | [I'm In: a volunteering platform](https://github.com/wirsindpapst/project-snowflake) | JavaScript / Meteor | MongoDB, Chimp, Mocha/Chai, Google Maps API
 | [A news summary app](https://github.com/wirsindpapst/news-app-js) | Pure JavaScript (no framework)  | Jasmine |
-| [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb)|  Ruby / Rails  | Rspec/Capybara, PostgreSQL/ActiveRecord |
+| [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb)|  Ruby/Sinatra  | Rspec/Capybara, PostgreSQL/DataMapper |
 | [Unchained: A blogging platform](https://github.com/wirsindpapst/unchained_blog)| Python / Django | Unittest / Selenium WebDriver, Facebook Developer API
 
 ---
@@ -50,7 +50,7 @@ Having recently exited management consulting before being promoted past a point 
 |---|---|
 |September 2016 - December 2016| Student at Makers Academy|
 |May 2016 - August 2016| Independent travel (Canada & South America)|
-|July 2013 - May 2016| PwC Consulting: Consulting Technology, Senior Associate
+|July 2013 - May 2016| PwC Consulting, Technology Consulting, Senior Associate
 |September 2011 - June 2013 | PwC Consulting, Graduate Management Consultant|
 |October 2010 - May 2011 | British Council, English Language Teaching Assistant (Vienna, Austria)|
 
