@@ -6,4 +6,13 @@ _Everyone asks about the GitHub username, so I thought I would explain it here. 
 
 _It's just something irreverent, given I am blessed/cursed with an extremely common name._
 
-Having recently exited management consulting before being promoted past a point of no return, I'm keen to find a junior developer role. To help make this happen, I've just completed the 3 month MakersAcademy coding bootcamp. This has given me the skills needed to produce test-driven full-stack web applications using a variety of programming languages and supporting technologies.
+Having recently exited management consulting before being promoted past a point of no return, I'm keen to find a junior developer role. To help make this happen, I've just completed the 3 month MakersAcademy coding bootcamp. This has given me the skills needed to produce test-driven full-stack web applications, driven by my own learning, using a variety of programming languages and supporting technologies.
+
+## I built these: ##
+
+| Language / Framework | Related project | Supporting stack |
+|---|---|---|
+|JavaScript / Meteor | I'm In: a volunteering platform | Chimp, Mocha/Chai, Google Maps API
+| Pure JavaScript (no framework) | A news summary app | Jasmine |
+| Ruby / Rails | MakersBnB: an AirBnB clone app | Rspec/Capybara, PostgreSQL/ActiveRecord |
+| Python / Django | A blogging platform | Unittest / Selenium WebDriver, Facebook Developer API
