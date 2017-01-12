@@ -28,13 +28,13 @@ Having recently exited management consulting before being promoted past a point 
 ### ... I combine analytical and creative thinking ###
 
  -  I have a degree in German and Russian from Cambridge University. A big part of this was writing essays answering questions on the literature, history and philosophy of these cultures, and then defending my viewpoint in discussions with leading academics in these fields.
- -  I have produced a number of business cases to provide the rationale for strategic investment, including producing the initial business case for [Frontline](http://www.thefrontline.org.uk/), which was used in discussions for government funding. Beyond just crunching the numbers, I then had to distil data into a set of digestible findings and compelling recommendations to enable informed decision making.
+ -  I have produced a number of business cases to provide the rationale for strategic investment, such as the initial business case for [Frontline](http://www.thefrontline.org.uk/), which was used in discussions with the Sescretary of State for Education for government funding. Beyond just crunching the numbers, I had to distil data into a set of digestible findings and compelling recommendations to enable decision making.
  - As an English Language Teaching Assistant, I was responsible for coming up with conversation-driven lessons for a range of age groups and abilities. I often drew upon the strong cultural heritage of my North Eastern roots (think lessons on Geordie Shore tenuously disguised as a debate on youth drinking culture) to pique the interests of some of Vienna's moodiest adolescents.
 
 ### ... I like to get things done ###
 
 -  In my previous career I have worked on projects in a number of different client-facing roles, including but not limited to: project manager, business analyst, business case lead, IT sourcing lead. Basically, I've been trusted as a safe pair of hands with a lot of difficult jobs.
--  I love creating clean, test-driven code, but understand this is ultimately to provide functionality and value to the end user. I see code as a means to an end and not an art form unto itself.
+-  I love creating clean, test-driven code, but understand this is ultimately to provide functionality and value to the end user.
 
 ### ... I deal well with change and uncertainty ###
 
