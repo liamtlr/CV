@@ -8,7 +8,7 @@
 
 ---
 
-Having recently exited management consulting before being promoted past a point of no return, I'm now looking a junior developer role. To make this happen, I've recently completed the elite MakersAcademy coding bootcamp. This has given me the skills to produce test-driven applications, utilising a variety of programming languages and supporting technologies, through a self-led approach to learning. I try to be a good person that people like to have around.
+Having recently exited management consulting before being promoted past a point of no return, I'm now looking for a junior developer role. To make this happen, I've recently completed the Makers Academy coding bootcamp. This has given me the skills to produce test-driven applications, utilising a variety of programming languages and supporting technologies, through a self-led approach to learning. I try to be a good person that people like to have around.
 
 ---
 
