@@ -68,5 +68,4 @@ Having recently exited management consulting before being promoted past a point 
 ## Miscellaneous
 
  -  Not particularly out there; I love to read (talk to me about Guenter Grass, Elfriede Jelinek, Margaret Atwood and China Mieville). I also go to a book group for Dystopian and Post-Apocalyptic fiction (a guilty pleasure).
- - Podscasts
  -  Board games (co operative, strategic and something with a good gimmick is right up my street).
