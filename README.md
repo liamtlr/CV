@@ -28,7 +28,7 @@ Having recently exited management consulting before being promoted past a point 
 ### ... I combine analytical and creative thinking ###
 
  -  I have a degree in German and Russian from Cambridge University. A big part of this was writing essays answering questions on the literature, history and philosophy of these cultures, and then defending my viewpoint in discussions with leading academics in these fields.
- -  I have produced a number of business cases to provide the rationale for strategic investment, such as the initial business case for [Frontline](http://www.thefrontline.org.uk/), which was used in discussions with the Sescretary of State for Education for government funding. Beyond just crunching the numbers, I had to distil data into a set of digestible findings and compelling recommendations to enable decision making.
+ -  I have produced a number of business cases to provide the rationale for strategic investment, such as the initial business case for [Frontline](http://www.thefrontline.org.uk/), which was used in discussions with the Secretary of State for Education for government funding. Beyond just crunching the numbers, I had to distil data into a set of digestible findings and compelling recommendations to enable decision making.
  - As an English Language Teaching Assistant, I was responsible for coming up with conversation-driven lessons for a range of age groups and abilities. I often drew upon the strong cultural heritage of my North Eastern roots (think lessons on Geordie Shore tenuously disguised as a debate on youth drinking culture) to pique the interests of some of Vienna's moodiest adolescents.
 
 ### ... I like to get things done ###
