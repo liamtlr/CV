@@ -10,7 +10,7 @@ I recently made the switch to software development after 5 years as a management
 
 ## My current role ##
 
-I'm a junior developer at [Cubed Attribution](http://withcubed.ai), based in Cardiff. We amalgamate 1st, 2nd and 3rd Party datasets and then apply machine learning and engaging data visualisation to help marketing professionals target their customers more effectively. As part of a development team of 6, my role here has been truly full stack. As a junior I have had full responsibility for full feature development, working with the CEO and clients to define business requirements, and implementing these across the front and back end.
+I'm a junior developer at [CUBED Attribution](http://cubed.ai), based in Cardiff. We amalgamate 1st, 2nd and 3rd Party datasets and then apply machine learning and engaging data visualisation to help marketing professionals target their customers more effectively. As part of a development team of 6, my role here has been truly full stack. As a junior I have had full responsibility for full feature development, working with the CEO and clients to define business requirements, and implementing these across the front and back end.
 
 ### Current stack
 
@@ -57,7 +57,7 @@ I'm a junior developer at [Cubed Attribution](http://withcubed.ai), based in Car
 
 |When|What I was doing|
 |---|---|
-|April 2017 - Present| Junior Developer, [Cubed Attribution](http://cubed.ai)|
+|April 2017 - Present| Junior Developer, [CUBED Attribution](http://cubed.ai)|
 |September 2016 - December 2016| Student at Makers Academy|
 |May 2016 - August 2016| Independent travel (Canada & South America)|
 |July 2013 - May 2016| PwC Consulting, Technology Consulting, Senior Associate
