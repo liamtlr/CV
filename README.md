@@ -45,7 +45,8 @@ I'm a junior developer at [CUBED Attribution](http://cubed.ai), based in Cardiff
 -  In my previous career I have worked on projects in a number of different client-facing roles, including but not limited to: project manager, business analyst, business case lead, IT sourcing lead. Basically, I've been trusted as a safe pair of hands with a lot of difficult jobs.
 -  I love creating clean, test-driven code, but understand this is ultimately to provide functionality and value to the end user.
 
-### ... I deal well with change and uncertainty ###
+### ... I deal well with change and uncertainty ###
+### ... I deal well with change and uncertainty ###
 
  -  As a consultant I was placed in client-facing roles at short notice, often with little clarity as to the role I was taking on. I've had to quickly become an effective consultant in the areas of IT sourcing, IT strategy, IT Service Management and IT programme assurance (excuse the jargon) with little or no previous experience.
  -  As part of the MakersAcademy bootcamp I have familiarised myself with new languages / frameworks and produced web applications in 5 days.
