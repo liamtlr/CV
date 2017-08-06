@@ -1,16 +1,25 @@
 # Liam Taylor
 
-[GitHub](https://github.com/wirsindpapst) | [LinkedIn](https://uk.linkedin.com/in/liamtayloruk) | [Codewars](https://www.codewars.com/users/wirsindpapst)
-
-######Everyone asks about the GitHub username, so I thought I would explain that first. It's German for 'We are Pope' (I speak German and used to live in Austria), which was a  fantastic/ridiculous headline in a lowbrow German tabloid when a German pope was consecrated, see [this](https://www.google.co.uk/search?q=wirsind+papst+bild&espv=2&biw=1231&bih=633&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-pMqjnYDRAhVCshQKHcktB_0Q_AUIBigB&dpr=2#imgrc=VCYdUJ3YpSRwiM%3A) or the [wikipedia article](https://de.wikipedia.org/wiki/Wir_sind_Papst!).######
-
-######It's just something irreverent, given I am blessed/cursed with an extremely common name. ######
+[GitHub](https://github.com/liamtlr) | [LinkedIn](https://uk.linkedin.com/in/liamtayloruk) | [Codewars](https://www.codewars.com/users/wirsindpapst)
 
 ---
 
-Having recently exited management consulting before being promoted past a point of no return, I'm now looking for a junior developer role. To make this happen, I've recently completed the Makers Academy coding bootcamp. This has given me the skills to produce test-driven applications, utilising a variety of programming languages and supporting technologies, through a self-led approach to learning. I try to be a good person that people like to have around.
+I recently made the switch to software development after 5 years as a management consultant. I absolutely love finding technical solutions to business problems, and innovative ways to implement these across the full tech stack. Having been a Jack-of-all-trades all my life, I'm most comfortable working in full-stack roles, but am also happy delving into the detail. I'm looking for a new role to continue to challenge me in different ways. I try to be a good person that people like to have around.
 
 ---
+
+## My current role ##
+
+I'm a junior developer at [Cubed Attribution](http://withcubed.ai), based in Cardiff. We amalgamate 1st, 2nd and 3rd Party datasets and then apply machine learning and engaging data visualisation to help marketing professionals target their customers more effectively. As part of a development team of 6, my role here has been truly full stack. As a junior I have had full responsibility for full feature development, working with the CEO and clients to define business requirements, and implementing these across the front and back end.
+
+### Current stack
+
+* KnockoutJS / Less
+* MySQL / TastyPie
+* Vagrant / NGinx / Ansible
+* Jasmine / Unittest
+* Django / Python
+* R
 
 ## I built these: ##
 
@@ -27,8 +36,8 @@ Having recently exited management consulting before being promoted past a point 
 
 ### ... I combine analytical and creative thinking ###
 
- -  I have a degree in German and Russian from Cambridge University. A big part of this was writing essays answering questions on the literature, history and philosophy of these cultures, and then defending my viewpoint in discussions with leading academics in these fields.
  -  I have produced a number of business cases to provide the rationale for strategic investment, such as the initial business case for [Frontline](http://www.thefrontline.org.uk/), which was used in discussions with the Secretary of State for Education for government funding. Beyond just crunching the numbers, I had to distil data into a set of digestible findings and compelling recommendations to enable decision making.
+ -  I have a degree in German and Russian from Cambridge University. A big part of this was writing essays answering questions on the literature, history and philosophy of these cultures, and then defending my viewpoint in discussions with leading academics in these fields.
  - As an English Language Teaching Assistant, I was responsible for coming up with conversation-driven lessons for a range of age groups and abilities. I often drew upon the strong cultural heritage of my North Eastern roots (think lessons on Geordie Shore tenuously disguised as a debate on youth drinking culture) to pique the interests of some of Vienna's moodiest adolescents.
 
 ### ... I like to get things done ###
@@ -39,7 +48,7 @@ Having recently exited management consulting before being promoted past a point 
 ### ... I deal well with change and uncertainty ###
 
  -  As a consultant I was placed in client-facing roles at short notice, often with little clarity as to the role I was taking on. I've had to quickly become an effective consultant in the areas of IT sourcing, IT strategy, IT Service Management and IT programme assurance (excuse the jargon) with little or no previous experience.
- -  As part of the MakersAcademy bootcamp I have familiarised myself with an entirely new language / framework and produced a working web application in 5 days.
+ -  As part of the MakersAcademy bootcamp I have familiarised myself with new languages / frameworks and produced web applications in 5 days.
  -  As part of the year abroad element of my degree, a planned internship at a Russian human rights organisation was made impossible when my visa application was rejected. As a result I had to make replacement plans in extremely short notice. I found replacement work, accommodation and travel arrangements in Kyiv, Ukraine in under 10 days.
 
  ---
@@ -48,6 +57,7 @@ Having recently exited management consulting before being promoted past a point 
 
 |When|What I was doing|
 |---|---|
+|April 2017 - Present| Junior Developer, [Cubed Attribution](http://cubed.ai)|
 |September 2016 - December 2016| Student at Makers Academy|
 |May 2016 - August 2016| Independent travel (Canada & South America)|
 |July 2013 - May 2016| PwC Consulting, Technology Consulting, Senior Associate
@@ -65,7 +75,7 @@ Having recently exited management consulting before being promoted past a point 
 
 ---
 
-## Miscellaneous
+## Miscellany
 
  -  Not particularly out there; I love to read (talk to me about Guenter Grass, Elfriede Jelinek, Margaret Atwood and China Mieville). I also go to a book group for Dystopian and Post-Apocalyptic fiction (a guilty pleasure).
- -  Board games (co operative, strategic and something with a good gimmick is right up my street).
+ -  Board games (co operative, strategic or something with a good gimmick is right up my street).
