@@ -59,11 +59,10 @@ Mainly worked in the front end on data visualisation of customer interaction wit
 
  ---
 
-## Career to date
+## Pre-development
 
 |When|What I was doing|
 |---|---|
-|April 2017 - Present| Junior Developer, [CUBED Attribution](http://cubed.ai)|
 |September 2016 - December 2016| Student at Makers Academy|
 |May 2016 - August 2016| Independent travel (Canada & South America)|
 |July 2013 - May 2016| PwC Consulting, Technology Consulting, Senior Associate
