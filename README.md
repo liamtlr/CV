@@ -4,31 +4,37 @@
 
 ---
 
-I recently made the switch to software development after 5 years as a management consultant. I absolutely love finding technical solutions to business problems, and innovative ways to implement these across the full tech stack. Having been a Jack-of-all-trades all my life, I'm most comfortable working in full-stack roles, but am also happy delving into the detail. I'm looking for a new role to continue to challenge me in different ways. I try to be a good person that people like to have around.
+Management consultant turned full-stack developer. Having been a Jack-of-all-trades all my life, I'm most comfortable developing features end to end. I'm looking for a new role to continue to challenge me in different ways. I try to be a good person that people like to have around.
 
 ---
 
-## My current role ##
+## Current stack
 
-I'm a junior developer at [CUBED Attribution](http://cubed.ai), based in Cardiff. We amalgamate 1st, 2nd and 3rd Party datasets and then apply machine learning and engaging data visualisation to help marketing professionals target their customers more effectively. As part of a development team of 6, my role here has been truly full stack. As a junior I have had full responsibility for full feature development, working with the CEO and clients to define business requirements, and implementing these across the front and back end.
+* VueJS/VueX/Stylus
+* PostgreSQL
+* Django/Django Rest Framework
+* Docker/Ansible
+* AWS Lambda (and the rest of the usual stuff
 
-### Current stack
+## Jobs I've had ##
 
-* KnockoutJS / Less
-* MySQL / TastyPie
-* Vagrant / NGinx / Ansible
-* Jasmine / Unittest
-* Django / Python
-* R
+### [Piclo](http://piclo.energy)
 
-## I built these: ##
+November 2017 - present
 
-| Project | Language/Framework  | Supporting technologies |
-|---|---|---|
-| [I'm In: a volunteering platform](https://github.com/wirsindpapst/project-snowflake) | JavaScript/Meteor | MongoDB, Chimp, Mocha/Chai, Google Maps API
-| [Tech News Ticker: a news summary app](https://github.com/wirsindpapst/news-app-js) | Pure JavaScript (no framework)  | Jasmine |
-| [MakersBnB: an AirBnB clone app](https://github.com/wirsindpapst/makersbnb)|  Ruby / Sinatra  | Rspec/Capybara, PostgreSQL/DataMapper |
-| [Unchained: a blogging platform](https://github.com/wirsindpapst/unchained_blog)| Python/Django | Unittest/Selenium WebDriver, Facebook Developer API
+Joined Piclo at a really good time. Spent the first 6 months maintaining gross, monolithic spaghetti code developed by other people, before we pivoted away to a new product. Took my battle scars from there to help build a new, microservice-led project from scratch.
+
+Have maintained a pretty broad spectrum across the stack, as is necessary with a microservice architecture. Want to stay that way, ideally. Do need to frequently get help from a friendly DevOps colleague when I'm knee deep in Ansible though.
+
+P.S. Not totally sold on/wedded to microservices.
+
+### [CUBED Attribution](http://cubed.ai)
+
+March - October 2017
+
+These guys were total cowboys.. but they gave me my first dev role so I guess I'm grateful.
+
+Mainly worked in the front end on data visualisation of customer interaction with clients' brands via advertising and other media interaction.
 
 ---
 
